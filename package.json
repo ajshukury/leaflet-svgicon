@@ -1,0 +1,7 @@
+{
+  "name": "leaflet-svgicon",
+  "version": "0.0.1",
+  "description": "An SVG-based Icon for Leaflet and an accompanying Marker classs",
+  "main": "dist/svg-icon.js",
+  "browser": "dist/svg-icon.js"
+}
